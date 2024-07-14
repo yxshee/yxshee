@@ -9,7 +9,7 @@
 I like  Football
 <a href="https://www.espn.in/football/" style="text-decoration: none; color: white; font-weight: bold;"><img align="center" width="24px" src="https://github.com/yxshee/yxshee/blob/main/adidas-football-png-9.png" /></a> , Netflix 
 <a href="https://www.netflix.com" style="text-decoration: none; color: white; font-weight: bold;"><img align="center" width="24px" src="https://github.com/yxshee/yxshee/blob/main/Netflix_Symbol_RGB.png" /></a> , and Mountains
-<a href="https://www.google.com/maps/place/Himachal+Pradesh/@32.246137,78.034916,7z/data=!4m6!3m5!1s0x390453c367f901f7:0x7cfe04c5564b7725!8m2!3d32.1024076!4d77.5619419!16zL20vMDNwODU?entry=ttu" style="text-decoration: none; color: white; font-weight: bold;"><img align="center" width="29px" src="https://github.com/yxshee/yxshee/blob/main/AdobeStock_800940067_Preview.png" /></a> .
+<a href="https://www.google.com/maps/place/Himachal+Pradesh/@32.246137,78.034916,7z/data=!4m6!3m5!1s0x390453c367f901f7:0x7cfe04c5564b7725!8m2!3d32.1024076!4d77.5619419!16zL20vMDNwODU?entry=ttu" style="text-decoration: none; color: white; font-weight: bold;"><img align="center" width="29px" src="https://github.com/yxshee/yxshee/blob/main/IMG_4334.PNG" /></a> .
 
 
 **Languages I have used**
