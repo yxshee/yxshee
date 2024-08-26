@@ -6,20 +6,22 @@
 
 **About Me**
 
-I like  Football
-<a href="https://www.espn.in/football/" style="text-decoration: none; color: white; font-weight: bold;"><img align="center" width="17px" src="https://github.com/yxshee/yxshee/blob/main/adidas-football-png-9.png" /></a> , Netflix 
-<a href="https://www.netflix.com" style="text-decoration: none; color: white; font-weight: bold;"><img align="center" width="15px" src="https://github.com/yxshee/yxshee/blob/main/Netflix_Symbol_RGB.png" /></a> , and Mountains
-<a href="https://www.google.com/maps/place/Himachal+Pradesh/@32.246137,78.034916,7z/data=!4m6!3m5!1s0x390453c367f901f7:0x7cfe04c5564b7725!8m2!3d32.1024076!4d77.5619419!16zL20vMDNwODU?entry=ttu" style="text-decoration: none; color: white; font-weight: bold;"><img align="center" width="20px" src="https://github.com/yxshee/yxshee/blob/main/IMG_4334.PNG" /></a> .
+I like  football ⚽️ , netflix 
+<a href="https://www.netflix.com" style="text-decoration: none; color: white; font-weight: bold;"><img align="center" width="13px" src="https://github.com/yxshee/yxshee/blob/main/Netflix_Symbol_RGB.png" /></a> , and mountains 🏔️.<br>
+currently exploring domains of conscience.<br>
 
+🍁  <br>
 
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+⚝![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
+
+🪐 <br>
 
 <!--
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
@@ -33,6 +35,7 @@ I like  Football
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
 
+🛸 <br>
 **Socials**
 
 
