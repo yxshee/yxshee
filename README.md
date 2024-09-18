@@ -7,9 +7,9 @@
 ⌘ <br>
 **About Me**
 
-i like  football ⚽️ , netflix 
-<a href="https://www.netflix.com" style="text-decoration: none; color: white; font-weight: bold;"><img align="center" width="13px" src="https://github.com/yxshee/yxshee/blob/main/Netflix_Symbol_RGB.png" /></a> , and mountains 🏔️.<br>
-currently exploring domains of conscience.<br>
+I like  Football ⚽️ , Netflix 
+<a href="https://www.netflix.com" style="text-decoration: none; color: white; font-weight: bold;"><img align="center" width="13px" src="https://github.com/yxshee/yxshee/blob/main/Netflix_Symbol_RGB.png" /></a> , and Mountains 🏔️.<br>
+Currently exploring domains of conscience.<br>
 
 🍁  <br>
 **Languages I have used**
@@ -73,9 +73,6 @@ currently exploring domains of conscience.<br>
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)
-
-
-
 
 
 <!--
