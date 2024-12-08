@@ -60,7 +60,7 @@ Currently exploring domains of Conscience.<br>
 
 
 
-<img width = "420px" src ="https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf">
+<img width = "369px" src ="https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf">
   
 </div>
 <br>
