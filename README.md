@@ -35,19 +35,19 @@ Currently exploring domains of Conscience.<br>
 
 
   <a href="https://www.linkedin.com/in/yxshee/">
-    <img align="center" " width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a>
+    <img align="center"  width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="https://x.com/yxsheeee">
-    <img align="center"  " width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" /></a>
+    <img align="center"   width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="https://www.instagram.com/y4shhx/">
-    <img align="center"  " width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" /></a>
+    <img align="center"   width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="mailto:yash999901@gmail.com">
-    <img align="center"  " width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
+    <img align="center"  width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
 
 
 
@@ -59,15 +59,16 @@ Currently exploring domains of Conscience.<br>
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n7qq9tls80v3iktphyzqg1luc&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=n7qq9tls80v3iktphyzqg1luc&redirect=true)
+
+<img width = "420px" src ="https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf">
   
 </div>
+<br>
+<br>
 
 
 
-
-
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">  
+<img  src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center" >  
 <br>
 <br>
 
@@ -75,6 +76,9 @@ Currently exploring domains of Conscience.<br>
 
 
 <!--
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n7qq9tls80v3iktphyzqg1luc&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=n7qq9tls80v3iktphyzqg1luc&redirect=true)
 
   <img align="right" alt="GIF" src="https://github.com/yxshee/yxshee/blob/main/IMG_0504.jpeg" />
 
