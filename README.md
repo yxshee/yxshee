@@ -11,7 +11,7 @@
 i like  football, netflix, and mountains<br>
 currently exploring domains of conscience <br>
 
-<img src="https://media.giphy.com/media/14APLG463ouIBK5J4W/giphy.gif?cid=ecf05e47sfwretyuc3iu3hl279yw8jutjxicoefhib6yuyc5&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="meemeemee" align="center" width="75" height="75"/><br> 
+<img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="meemeemee" align="center" width="75" height="75"/><br>
 
 **Languages I have used**
 
