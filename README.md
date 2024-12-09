@@ -14,8 +14,8 @@
 
 **About Me**
 
-i like  football, netflix, and mountains<br>
-currently exploring domains of conscience <br>
+I like  football, netflix, and mountains<br>
+Currently exploring domains of conscience <br>
 
 <br/>
 
