@@ -37,7 +37,9 @@ currently exploring domains of conscience <br>
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
 
-<img src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="meemeemee" align="center" width="96" height="96"/><br>
+
+ <a href="https://www.youtube.com/watch?v=J87pJrxvJ5E">
+    <img align="center"  width="74px" src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
   
 **Socials**
 
