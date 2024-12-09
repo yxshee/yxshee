@@ -80,7 +80,7 @@ currently exploring domains of conscience <br>
  <a href="https://www.youtube.com/watch?v=NUnXxh5U25Y">
     <img align="center" alt="Smiley"  width="200px" src="https://media.giphy.com/media/n4wYTVgbUMM2Xlqvwz/giphy.gif?cid=ecf05e477xso9r7a11x0z9jbuw1oa99wk7eafqzl4utir2pz&ep=v1_gifs_related&rid=giphy.gif&ct=s" /></a>
 
-[![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)](https://www.youtube.com/watch?v=bpOSxM0rNPM)
+[![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)](https://www.youtube.com/watch?v=vmIUvp0e1bw)
 
 
 
