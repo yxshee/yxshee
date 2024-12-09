@@ -38,7 +38,6 @@ currently exploring domains of conscience <br>
   
 **Socials**
 
-
   <a href="https://www.linkedin.com/in/yxshee/">
     <img align="center"  width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a>
  &nbsp &nbsp &nbsp 
@@ -60,6 +59,8 @@ currently exploring domains of conscience <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)
 
+
+![25E3D854-4099-4E92-AE44-CBD6FCF56D5A_1_201_a](https://github.com/user-attachments/assets/0766563f-d821-447f-aef3-44a7d479d5d4)
 
 
 
