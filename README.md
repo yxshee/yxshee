@@ -68,12 +68,35 @@ Currently exploring domains of Conscience.<br>
 
 
 
-<img  src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center" >  
+<img  src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" alt="Smiley" align="center" >  
 <br>
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)
 
+
+
+
+<!--
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n7qq9tls80v3iktphyzqg1luc&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=n7qq9tls80v3iktphyzqg1luc&redirect=true)
+
+  <img align="right" alt="GIF" src="https://github.com/yxshee/yxshee/blob/main/IMG_0504.jpeg" />
+
+
+**yxshee/yxshee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -102,24 +125,6 @@ Currently exploring domains of Conscience.<br>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<!--
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n7qq9tls80v3iktphyzqg1luc&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=n7qq9tls80v3iktphyzqg1luc&redirect=true)
-
-  <img align="right" alt="GIF" src="https://github.com/yxshee/yxshee/blob/main/IMG_0504.jpeg" />
-
-
-**yxshee/yxshee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
