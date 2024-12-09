@@ -26,7 +26,7 @@ currently exploring domains of conscience <br>
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+[![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://www.youtube.com/watch?v=rQvIR1oL1vE)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
