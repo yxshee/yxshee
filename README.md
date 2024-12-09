@@ -1,4 +1,5 @@
 
+![Yash Dogra (1)](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)
 
 [![Header](https://github.com/yxshee/yxshee/blob/main/Yash%20Dogra.gif)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
 
