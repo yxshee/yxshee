@@ -63,8 +63,6 @@ Currently exploring domains of Conscience.<br>
 <img width = "303px" src ="https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf">
   
 </div>
-<br>
-<br>
 
 <img  src="https://media.giphy.com/media/n4wYTVgbUMM2Xlqvwz/giphy.gif?cid=ecf05e477xso9r7a11x0z9jbuw1oa99wk7eafqzl4utir2pz&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="Smiley" align="center" width="200" height="200">  
 
