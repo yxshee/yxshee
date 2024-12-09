@@ -66,15 +66,11 @@ Currently exploring domains of Conscience.<br>
 <br>
 <br>
 
-<img  src="https://media.giphy.com/media/n4wYTVgbUMM2Xlqvwz/giphy.gif?cid=ecf05e477xso9r7a11x0z9jbuw1oa99wk7eafqzl4utir2pz&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="Smiley" align="center" >  
-
-<img  src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" alt="Smiley" align="center" >  
-<br>
-<br>
+<img  src="https://media.giphy.com/media/n4wYTVgbUMM2Xlqvwz/giphy.gif?cid=ecf05e477xso9r7a11x0z9jbuw1oa99wk7eafqzl4utir2pz&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="Smiley" align="center" width="200" height="200">  
 
 ![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)
 
-<img  src="https://media.giphy.com/media/9WrHbPuB2wq4zv495E/giphy.gif?cid=ecf05e472zsccp8q7qmg3yy86vt9ymjolhc0wmehddvt4jyi&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Smiley" align="center" >  
+
 
 
 <!--
@@ -84,7 +80,10 @@ Currently exploring domains of Conscience.<br>
 
   <img align="right" alt="GIF" src="https://github.com/yxshee/yxshee/blob/main/IMG_0504.jpeg" />
 
+  <img  src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" alt="Smiley" align="center" >  
 
+  <img  src="https://media.giphy.com/media/9WrHbPuB2wq4zv495E/giphy.gif?cid=ecf05e472zsccp8q7qmg3yy86vt9ymjolhc0wmehddvt4jyi&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Smiley" align="center" >  
+  
 **yxshee/yxshee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
