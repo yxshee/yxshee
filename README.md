@@ -66,7 +66,7 @@ Currently exploring domains of Conscience.<br>
 <br>
 <br>
 
-
+<img  src="https://media.giphy.com/media/n4wYTVgbUMM2Xlqvwz/giphy.gif?cid=ecf05e477xso9r7a11x0z9jbuw1oa99wk7eafqzl4utir2pz&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="Smiley" align="center" >  
 
 <img  src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" alt="Smiley" align="center" >  
 <br>
