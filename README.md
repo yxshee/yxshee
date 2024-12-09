@@ -7,8 +7,8 @@
 ⌘ <br>
 **About Me**
 
-I like  Football, Netflix, and Mountains.<br>
-Currently exploring domains of Conscience.<br>
+i like  football, netflix, and mountains<br>
+currently exploring domains of conscience <br>
 
 🍁  <br>
 **Languages I have used**
