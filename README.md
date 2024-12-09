@@ -74,7 +74,7 @@ Currently exploring domains of Conscience.<br>
 
 ![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)
 
-
+<img  src="https://media.giphy.com/media/9WrHbPuB2wq4zv495E/giphy.gif?cid=ecf05e472zsccp8q7qmg3yy86vt9ymjolhc0wmehddvt4jyi&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Smiley" align="center" >  
 
 
 <!--
