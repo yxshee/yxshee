@@ -14,7 +14,11 @@
 i like  football, netflix, and mountains<br>
 currently exploring domains of conscience <br>
 
-<img src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="meemeemee" align="center" width="75" height="75"/><br>
+
+
+<a href="https://www.youtube.com/watch?v=2SUwOgmvzK4">
+    <img align="center"  width="75px" src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
+<br>
 
 **Languages I have used**
 
@@ -39,7 +43,7 @@ currently exploring domains of conscience <br>
 
 
  <a href="https://www.youtube.com/watch?v=J87pJrxvJ5E">
-    <img align="center"  width="74px" src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
+    <img align="center"  width="75px" src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
   
 **Socials**
 
