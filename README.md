@@ -6,8 +6,9 @@
   
 <a href="https://www.youtube.com/watch?v=4YFu4dvMHHY" target="_blank">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdyZWFlcW04N3p1MTY2Nzk3d3ZjaGUwbnYybDV2ZDVncGN4MWthZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xT9DPpQ7337vzdMpPi/giphy.gif" width="75" alt="meemeemee">
-</a>
+</a>&nbsp
 <br>
+
 
 **About Me**
 
@@ -18,7 +19,7 @@ currently exploring domains of conscience <br>
 
 <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4">
     <img align="center"  width="75px" src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
-<br>
+<br>&nbsp 
 
 **Languages I have used**
 
@@ -34,7 +35,7 @@ currently exploring domains of conscience <br>
 
 <a href="https://www.youtube.com/watch?v=TnslTRrzaeQ&list=PLu0u9EZ0AYjn8K1qEmPcdu1iYEZI6pttk&index=1">
     <img align="center"  width="75px" src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif?cid=ecf05e479ke2hzjuw15z56bf43cuwgitbdlp1nwglx9gvhil&ep=v1_gifs_search&rid=giphy.gif&ct=g" /></a>
-
+&nbsp 
 <br>
 
 **Some of the technologies I have worked with**
@@ -47,8 +48,8 @@ currently exploring domains of conscience <br>
 
  <a href="https://www.youtube.com/watch?v=J87pJrxvJ5E">
     <img align="center"  width="75px" src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
+&nbsp 
 
-<br>
 
 **Socials**
 
