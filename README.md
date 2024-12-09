@@ -4,13 +4,15 @@
 
 <div align="center">
   
-⌘ <br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdyZWFlcW04N3p1MTY2Nzk3d3ZjaGUwbnYybDV2ZDVncGN4MWthZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xT9DPpQ7337vzdMpPi/giphy.gif" alt="meemeemee" align="center" width="50" height="50"/><br>
+
 **About Me**
 
 i like  football, netflix, and mountains<br>
 currently exploring domains of conscience <br>
 
-🍁  <br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNyZ2l6OWt3amlxY3hnOWk0M3g0a3p4cnRqOTE1dGRja3gwc280aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="meemeemee" align="center" width="50" height="50"/><br> 
+
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -22,7 +24,9 @@ currently exploring domains of conscience <br>
 <!--
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 -->
-🪐 <br>
+<img src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif?cid=ecf05e479ke2hzjuw15z56bf43cuwgitbdlp1nwglx9gvhil&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="meemeemee" align="center" width="50" height="50"/><br>
+
+
 **Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -30,7 +34,8 @@ currently exploring domains of conscience <br>
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
 
-🛸 <br>
+<img src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="meemeemee" align="center" width="75" height="75"/><br>
+  
 **Socials**
 
 
@@ -73,6 +78,8 @@ currently exploring domains of conscience <br>
 
 <!--
 
+
+ ⌘
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n7qq9tls80v3iktphyzqg1luc&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=n7qq9tls80v3iktphyzqg1luc&redirect=true)
 
