@@ -31,8 +31,11 @@ currently exploring domains of conscience <br>
 <!--
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 -->
-<img src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif?cid=ecf05e479ke2hzjuw15z56bf43cuwgitbdlp1nwglx9gvhil&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="meemeemee" align="center" width="75" height="75"/><br>
 
+<a href="https://www.youtube.com/watch?v=TnslTRrzaeQ&list=PLu0u9EZ0AYjn8K1qEmPcdu1iYEZI6pttk&index=1">
+    <img align="center"  width="75px" src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif?cid=ecf05e479ke2hzjuw15z56bf43cuwgitbdlp1nwglx9gvhil&ep=v1_gifs_search&rid=giphy.gif&ct=g" /></a>
+
+<br>
 
 **Some of the technologies I have worked with**
 
@@ -44,7 +47,9 @@ currently exploring domains of conscience <br>
 
  <a href="https://www.youtube.com/watch?v=J87pJrxvJ5E">
     <img align="center"  width="75px" src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
-  
+
+<br>
+
 **Socials**
 
   <a href="https://www.linkedin.com/in/yxshee/">
@@ -65,6 +70,8 @@ currently exploring domains of conscience <br>
 <div align="center">
 
 <img  src="https://media.giphy.com/media/n4wYTVgbUMM2Xlqvwz/giphy.gif?cid=ecf05e477xso9r7a11x0z9jbuw1oa99wk7eafqzl4utir2pz&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="Smiley" align="center" width="200" height="200">  
+
+<br>
 
 ![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)
 
