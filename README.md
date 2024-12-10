@@ -69,7 +69,7 @@ Currently exploring domains of conscience <br>
  &nbsp &nbsp &nbsp 
 
   <a href="https://x.com/yxsheeee">
-    <img align="center"   width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" /></a>
+    <img align="center"   width="33px" src="https://github.com/user-attachments/assets/9849e70c-0456-43e3-a243-68625fb0fc5b" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="https://www.instagram.com/y4shhx/">
