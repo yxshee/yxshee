@@ -25,12 +25,12 @@ Currently exploring domains of conscience <br>
 
 **Languages I have used**
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+[![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)](https://www.reddit.com/r/Exurb1a/)
+[![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)](https://i.pinimg.com/736x/36/a4/09/36a4093a742b2050de687d3a86cd750b.jpg)
 [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://www.youtube.com/watch?v=rQvIR1oL1vE)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
+[![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)]()
+[![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)]()
+[![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)]()
 
 <!--
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
