@@ -25,8 +25,9 @@ Currently exploring domains of conscience <br>
 
 **Languages I have used**
 
-[![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)](https://www.reddit.com/r/Exurb1a/)
-[![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)](https://i.pinimg.com/736x/36/a4/09/36a4093a742b2050de687d3a86cd750b.jpg)
+[![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)](https://www.reddit.com/r/Exurb1a/)![Image 736x736]
+
+[![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)](https://github.com/user-attachments/assets/d42d8e24-0678-44d7-8279-fed6af5c1c75)
 [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://www.youtube.com/watch?v=rQvIR1oL1vE)
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](https://i.pinimg.com/736x/b7/38/43/b73843e9606bcef51b3201e1da8342ff.jpg)
 [![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)](https://i.pinimg.com/736x/f4/9b/1f/f49b1fcc60468ad383ba56dd88c63b9a.jpg)
