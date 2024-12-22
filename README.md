@@ -85,7 +85,7 @@ Currently exploring domains of conscience <br>
 <br>
 
  <a href="https://www.youtube.com/watch?v=NUnXxh5U25Y">
-    <img align="center" alt="Smiley"  width="75px" src="https://media.giphy.com/media/9FhBK7b8sypyapQQRr/giphy.gif" /></a> &nbsp
+    <img align="center" alt="Smiley"  width="69px" src="https://media.giphy.com/media/9FhBK7b8sypyapQQRr/giphy.gif" /></a> &nbsp
 
 <br>
 
