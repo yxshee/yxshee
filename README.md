@@ -1,4 +1,4 @@
-
+![Instagram Icon (2)](https://github.com/user-attachments/assets/a76bc3b1-5ad4-4d7b-85a8-b455f884af21)
 
 [![Yash Dogra (1)](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
 
@@ -107,7 +107,7 @@ Currently exploring domains of conscience <br>
 **Socials**
 
   <a href="https://www.linkedin.com/in/yxshee/">
-    <img align="center"  width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /></a>
+    <img align="center"  width="24px" src="https://github.com/user-attachments/assets/a779affe-ef6e-4488-bed8-c7bdda8de1e7" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="https://x.com/yxsheeee">
@@ -119,7 +119,7 @@ Currently exploring domains of conscience <br>
  &nbsp &nbsp &nbsp 
 
   <a href="mailto:yash999901@gmail.com">
-    <img align="center"  width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
+    <img align="center"  width="26px" src="https://github.com/user-attachments/assets/662d714b-f0a5-4109-bc07-449b43c32f5e" /></a>
 
 <div align="center">
 
@@ -133,9 +133,6 @@ Currently exploring domains of conscience <br>
 <br>
 
 [![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)](https://www.youtube.com/watch?v=vmIUvp0e1bw)
-
-
-
 
 
 
