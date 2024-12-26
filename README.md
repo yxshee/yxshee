@@ -1,6 +1,5 @@
-![Instagram Icon (2)](https://github.com/user-attachments/assets/a76bc3b1-5ad4-4d7b-85a8-b455f884af21)
 
-[![Yash Dogra (1)](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
+[![Yash Dogra ](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
 
 <br>
 
@@ -107,19 +106,19 @@ Currently exploring domains of conscience <br>
 **Socials**
 
   <a href="https://www.linkedin.com/in/yxshee/">
-    <img align="center"  width="24px" src="https://github.com/user-attachments/assets/a779affe-ef6e-4488-bed8-c7bdda8de1e7" /></a>
+    <img align="center"  width="44px" src="https://github.com/user-attachments/assets/a779affe-ef6e-4488-bed8-c7bdda8de1e7" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="https://x.com/yxsheeee">
-    <img align="center"   width="36px" src="https://github.com/user-attachments/assets/9849e70c-0456-43e3-a243-68625fb0fc5b" /></a>
+    <img align="center"   width="44px" src="https://github.com/user-attachments/assets/9849e70c-0456-43e3-a243-68625fb0fc5b" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="https://www.instagram.com/y4shhx/">
-    <img align="center"   width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" /></a>
+    <img align="center"   width="44px" src="https://github.com/user-attachments/assets/dab83773-846c-4eff-9a59-af8887bf4c5c" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="mailto:yash999901@gmail.com">
-    <img align="center"  width="26px" src="https://github.com/user-attachments/assets/662d714b-f0a5-4109-bc07-449b43c32f5e" /></a>
+    <img align="center"  width="44px" src="https://github.com/user-attachments/assets/662d714b-f0a5-4109-bc07-449b43c32f5e" /></a>
 
 <div align="center">
 
