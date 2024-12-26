@@ -37,8 +37,8 @@ Currently exploring domains of conscience <br>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" alt="HTML5" /></a> &nbsp 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"  alt="JavaScript" /></a> &nbsp 
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/css3-colored.svg" width="30"  alt="HTML5" /></a> &nbsp 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/swift-dark.svg#L1" width="30"  alt="HTML5" /></a> &nbsp 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mysql.svg" width="30"  alt="HTML5" /></a> &nbsp 
+<a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/swift-dark.svg#L1" width="30"  alt="HTML5" /></a> &nbsp 
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mysql.svg" width="30"  alt="HTML5" /></a> &nbsp 
 
 </p>
 
