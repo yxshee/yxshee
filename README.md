@@ -95,19 +95,19 @@ Currently exploring domains of conscience <br>
 **Socials**
 
   <a href="https://www.linkedin.com/in/yxshee/">
-    <img align="center"  width="44px" src="https://github.com/user-attachments/assets/a779affe-ef6e-4488-bed8-c7bdda8de1e7" /></a>
+    <img align="center"  width="40px" src="https://github.com/user-attachments/assets/a779affe-ef6e-4488-bed8-c7bdda8de1e7" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="https://x.com/yxsheeee">
-    <img align="center"   width="64px" src="https://github.com/user-attachments/assets/9849e70c-0456-43e3-a243-68625fb0fc5b" /></a>
+    <img align="center"   width="56px" src="https://github.com/user-attachments/assets/9849e70c-0456-43e3-a243-68625fb0fc5b" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="https://www.instagram.com/y4shhx/">
-    <img align="center"   width="44px" src="https://github.com/user-attachments/assets/a73f8899-61dd-4bfe-9d77-e09245e421ca" /></a>
+    <img align="center"   width="40px" src="https://github.com/user-attachments/assets/a73f8899-61dd-4bfe-9d77-e09245e421ca" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="mailto:yash999901@gmail.com">
-    <img align="center"  width="44px" src="https://github.com/user-attachments/assets/4c4f7051-35c3-4d1e-a028-b6faebfb2640" /></a>
+    <img align="center"  width="40px" src="https://github.com/user-attachments/assets/4c4f7051-35c3-4d1e-a028-b6faebfb2640" /></a>
 
 <div align="center">
 
