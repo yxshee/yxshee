@@ -1,10 +1,4 @@
 
-<a href="https://www.reddit.com/r/Exurb1a/">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" alt="C" />
-</a>
-
-
-
 
 [![Yash Dogra (1)](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
 
@@ -31,70 +25,13 @@ Currently exploring domains of conscience <br>
 <br>&nbsp 
 
 **Languages I have used**
-<!--
+
 [![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)](https://www.reddit.com/r/Exurb1a/)
 [![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)](https://github.com/user-attachments/assets/d42d8e24-0678-44d7-8279-fed6af5c1c75)
 [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://www.youtube.com/watch?v=rQvIR1oL1vE)
-![HTML5](https://github.com/user-attachments/assets/f12a090e-dac6-4321-a019-a3c7b03d4a98)
-![JavaScript](https://github.com/user-attachments/assets/9111e7e6-dd08-4f85-8fa6-5ddf8fabb775)
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](https://i.pinimg.com/736x/b7/38/43/b73843e9606bcef51b3201e1da8342ff.jpg)
 [![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)](https://i.pinimg.com/736x/f4/9b/1f/f49b1fcc60468ad383ba56dd88c63b9a.jpg)
 [![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)](https://github.com/user-attachments/assets/9e1302b8-d8a0-40ae-8125-fa93de77d04f)
-
--->
-
-<a href="https://www.reddit.com/r/Exurb1a/">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" alt="C" />
-</a>
-
-<a href="https://github.com/user-attachments/assets/d42d8e24-0678-44d7-8279-fed6af5c1c75">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++" />
-</a>
-
-<a href="https://www.youtube.com/watch?v=rQvIR1oL1vE">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" <a href="https://www.reddit.com/r/Exurb1a/">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-C-000000?style=flat&logo=C" alt="C" />
-</a>
-<a href="https://github.com/user-attachments/assets/d42d8e24-0678-44d7-8279-fed6af5c1c75">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++" />
-</a>
-<a href="https://www.youtube.com/watch?v=rQvIR1oL1vE">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python" />
-</a>
-
-<img align="center" width="89px" src="https://github.com/user-attachments/assets/f12a090e-dac6-4321-a019-a3c7b03d4a98" alt="HTML5" />
-
-<img align="center" width="89px" src="https://github.com/user-attachments/assets/9111e7e6-dd08-4f85-8fa6-5ddf8fabb775" alt="JavaScript" />
-
-<a href="https://i.pinimg.com/736x/b7/38/43/b73843e9606bcef51b3201e1da8342ff.jpg">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL" alt="SQL" />
-</a>
-<a href="https://i.pinimg.com/736x/f4/9b/1f/f49b1fcc60468ad383ba56dd88c63b9a.jpg">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift" alt="Swift" />
-</a>
-<a href="https://github.com/user-attachments/assets/9e1302b8-d8a0-40ae-8125-fa93de77d04f">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R" alt="R" />
-</a>
- />
-</a>
-
-<img align="center" width="29px" src="https://github.com/user-attachments/assets/f12a090e-dac6-4321-a019-a3c7b03d4a98" alt="HTML5" />
-
-<img align="center" width="29px" src="https://github.com/user-attachments/assets/9111e7e6-dd08-4f85-8fa6-5ddf8fabb775" alt="JavaScript" />
-
-<a href="https://i.pinimg.com/736x/b7/38/43/b73843e9606bcef51b3201e1da8342ff.jpg">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL" alt="SQL" />
-</a>
-
-<a href="https://i.pinimg.com/736x/f4/9b/1f/f49b1fcc60468ad383ba56dd88c63b9a.jpg">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift" alt="Swift" />
-</a>
-
-<a href="https://github.com/user-attachments/assets/9e1302b8-d8a0-40ae-8125-fa93de77d04f">
-    <img align="center" width="89px" src="https://img.shields.io/badge/-R-000000?style=flat&logo=R" alt="R" />
-</a>
-
-
 
 <br>
 
@@ -109,12 +46,9 @@ Currently exploring domains of conscience <br>
 **Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![React](https://github.com/user-attachments/assets/f07e3481-f889-4570-8445-c82cc36766e4)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/yxshee)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9) 
-![Metamask](https://github.com/user-attachments/assets/57da10ac-4927-4662-bd8d-d4b05274c099)
-<!-- wi*quL3fcV -->
+![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9) <!-- wi*quL3fcV -->
 
 <br>
 
@@ -154,7 +88,3 @@ Currently exploring domains of conscience <br>
 <br>
 
 [![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)](https://www.youtube.com/watch?v=vmIUvp0e1bw)
-
-
-
-
