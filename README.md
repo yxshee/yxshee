@@ -32,13 +32,13 @@ Currently exploring domains of conscience <br>
 [![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)](https://i.pinimg.com/736x/f4/9b/1f/f49b1fcc60468ad383ba56dd88c63b9a.jpg)
 [![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)](https://github.com/user-attachments/assets/9e1302b8-d8a0-40ae-8125-fa93de77d04f) -->
 <p>
- <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> &nbsp 
+ <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="30"  alt="C++" /></a> &nbsp 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> &nbsp 
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp 
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/swift-dark.svg#L1" width="36" height="36" alt="HTML5" /></a> &nbsp 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mysql.svg" width="36" height="36" alt="HTML5" /></a> &nbsp 
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" alt="HTML5" /></a> &nbsp 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"  alt="JavaScript" /></a> &nbsp 
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/css3-colored.svg" width="30"  alt="HTML5" /></a> &nbsp 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/swift-dark.svg#L1" width="30"  alt="HTML5" /></a> &nbsp 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mysql.svg" width="30"  alt="HTML5" /></a> &nbsp 
 
 </p>
 
@@ -75,19 +75,19 @@ Currently exploring domains of conscience <br>
 
 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" alt="Git" /></a>
 &nbsp 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/opensea-colored.svg" width="36" height="36" alt="MetaMask" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/039dea77-e68a-4647-a389-c06165b29b4c" width="36"  alt="Pytorch" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="36"  alt="Docker" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="36"  alt="Linux" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="36"  alt="Linux" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="36"  alt="Linux" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="36"  alt="Linux" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="36"  alt="Linux" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a10d1c70-29f3-42ee-acff-e3aaf15007c3" width="36"  alt="Linux" /></a> &nbsp 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" alt="React" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="30" alt="MetaMask" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/opensea-colored.svg" width="30"  alt="MetaMask" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/039dea77-e68a-4647-a389-c06165b29b4c" width="30"  alt="Pytorch" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="30"  alt="Docker" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a10d1c70-29f3-42ee-acff-e3aaf15007c3" width="30"  alt="Linux" /></a> &nbsp 
 
 
 
@@ -114,11 +114,11 @@ Currently exploring domains of conscience <br>
  &nbsp &nbsp &nbsp 
 
   <a href="https://www.instagram.com/y4shhx/">
-    <img align="center"   width="60px" src="https://github.com/user-attachments/assets/9fba886a-11cb-4df3-8a4d-e9fe16712b44" /></a>
+    <img align="center"   width="44px" src="https://github.com/user-attachments/assets/a73f8899-61dd-4bfe-9d77-e09245e421ca" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="mailto:yash999901@gmail.com">
-    <img align="center"  width="50px" src="https://github.com/user-attachments/assets/662d714b-f0a5-4109-bc07-449b43c32f5e" /></a>
+    <img align="center"  width="44px" src="https://github.com/user-attachments/assets/4c4f7051-35c3-4d1e-a028-b6faebfb2640" /></a>
 
 <div align="center">
 
@@ -132,6 +132,4 @@ Currently exploring domains of conscience <br>
 <br>
 
 [![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)](https://www.youtube.com/watch?v=vmIUvp0e1bw)
-
-
 
