@@ -43,6 +43,7 @@ Currently exploring domains of conscience <br>
 </p>
 
 <br>
+<br>
 
 <a href="https://www.youtube.com/watch?v=TnslTRrzaeQ&list=PLu0u9EZ0AYjn8K1qEmPcdu1iYEZI6pttk&index=1">
     <img align="center"  width="85px" src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif?cid=ecf05e479ke2hzjuw15z56bf43cuwgitbdlp1nwglx9gvhil&ep=v1_gifs_search&rid=giphy.gif&ct=g" /></a>
