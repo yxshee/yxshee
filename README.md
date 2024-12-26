@@ -79,17 +79,29 @@ Currently exploring domains of conscience <br>
 &nbsp 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" alt="React" /></a> &nbsp 
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="30" alt="MetaMask" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/opensea-colored.svg" width="30"  alt="MetaMask" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/039dea77-e68a-4647-a389-c06165b29b4c" width="30"  alt="Pytorch" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="30"  alt="Docker" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="30"  alt="Linux" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="30"  alt="Linux" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="30"  alt="Linux" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="30"  alt="Linux" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="30"  alt="Linux" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a10d1c70-29f3-42ee-acff-e3aaf15007c3" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://opensea.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/opensea-colored.svg" width="30"  alt="MetaMask" /></a> &nbsp 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/039dea77-e68a-4647-a389-c06165b29b4c" width="30"  alt="Pytorch" /></a> &nbsp 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="30"  alt="Docker" /></a> &nbsp 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a10d1c70-29f3-42ee-acff-e3aaf15007c3" width="30"  alt="Linux" /></a> &nbsp 
 
 
+Git: https://git-scm.com/
+React: https://reactjs.org/
+MetaMask: https://metamask.io/
+OpenSea: 
+PyTorch: 
+Docker: 
+Linux: 
+TensorFlow: 
+Visual Studio Code (VS Code): 
+AWS (Amazon Web Services): 
+Postman: 
+Flutter: 
 
 <br>
 
