@@ -90,19 +90,6 @@ Currently exploring domains of conscience <br>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a10d1c70-29f3-42ee-acff-e3aaf15007c3" width="30"  alt="Linux" /></a> &nbsp 
 
 
-Git: https://git-scm.com/
-React: https://reactjs.org/
-MetaMask: https://metamask.io/
-OpenSea: 
-PyTorch: 
-Docker: 
-Linux: 
-TensorFlow: 
-Visual Studio Code (VS Code): 
-AWS (Amazon Web Services): 
-Postman: 
-Flutter: 
-
 <br>
 
 
