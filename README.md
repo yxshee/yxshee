@@ -73,7 +73,7 @@ Currently exploring domains of conscience <br>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="30"  alt="Linux" /></a> &nbsp 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="30"  alt="Linux" /></a> &nbsp 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="30"  alt="Linux" /></a> &nbsp 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="30"  alt="Linux" /></a> &nbsp 
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="30"  alt="Linux" /></a> &nbsp 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a10d1c70-29f3-42ee-acff-e3aaf15007c3" width="30"  alt="Linux" /></a> &nbsp 
 
 
