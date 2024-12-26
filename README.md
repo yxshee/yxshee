@@ -20,7 +20,7 @@ Currently exploring domains of conscience <br>
 <br/>
 
 <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4">
-    <img align="center"  width="85px" src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
+    <img align="center"  width="96px" src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
 <br>&nbsp 
 
 **Languages I have used**
