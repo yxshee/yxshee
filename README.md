@@ -110,15 +110,15 @@ Currently exploring domains of conscience <br>
  &nbsp &nbsp &nbsp 
 
   <a href="https://x.com/yxsheeee">
-    <img align="center"   width="44px" src="https://github.com/user-attachments/assets/9849e70c-0456-43e3-a243-68625fb0fc5b" /></a>
+    <img align="center"   width="64px" src="https://github.com/user-attachments/assets/9849e70c-0456-43e3-a243-68625fb0fc5b" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="https://www.instagram.com/y4shhx/">
-    <img align="center"   width="44px" src="https://github.com/user-attachments/assets/dab83773-846c-4eff-9a59-af8887bf4c5c" /></a>
+    <img align="center"   width="60px" src="https://github.com/user-attachments/assets/9fba886a-11cb-4df3-8a4d-e9fe16712b44" /></a>
  &nbsp &nbsp &nbsp 
 
   <a href="mailto:yash999901@gmail.com">
-    <img align="center"  width="44px" src="https://github.com/user-attachments/assets/662d714b-f0a5-4109-bc07-449b43c32f5e" /></a>
+    <img align="center"  width="50px" src="https://github.com/user-attachments/assets/662d714b-f0a5-4109-bc07-449b43c32f5e" /></a>
 
 <div align="center">
 
