@@ -25,13 +25,23 @@ Currently exploring domains of conscience <br>
 <br>&nbsp 
 
 **Languages I have used**
-
+<!--
 [![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)](https://www.reddit.com/r/Exurb1a/)
 [![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)](https://github.com/user-attachments/assets/d42d8e24-0678-44d7-8279-fed6af5c1c75)
 [![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)](https://www.youtube.com/watch?v=rQvIR1oL1vE)
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](https://i.pinimg.com/736x/b7/38/43/b73843e9606bcef51b3201e1da8342ff.jpg)
 [![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)](https://i.pinimg.com/736x/f4/9b/1f/f49b1fcc60468ad383ba56dd88c63b9a.jpg)
-[![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)](https://github.com/user-attachments/assets/9e1302b8-d8a0-40ae-8125-fa93de77d04f)
+[![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)](https://github.com/user-attachments/assets/9e1302b8-d8a0-40ae-8125-fa93de77d04f) -->
+<p>
+ <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/swift-dark.svg#L1" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mysql.svg" width="36" height="36" alt="HTML5" /></a>
+
+</p>
 
 <br>
 
@@ -88,3 +98,44 @@ Currently exploring domains of conscience <br>
 <br>
 
 [![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)](https://www.youtube.com/watch?v=vmIUvp0e1bw)
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <!-- Programming Languages -->
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+
+  <!-- Frontend Frameworks & Libraries -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+
+  <!-- Backend Technologies -->
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+
+  <!-- Version Control -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+
+  <!-- Blockchain Technologies -->
+  <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+  <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
+  <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
+  <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
+  <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
+ 
+
