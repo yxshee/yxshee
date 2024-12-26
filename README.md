@@ -52,26 +52,13 @@ Currently exploring domains of conscience <br>
 <br>
 
 
+
 **Some of the technologies I have worked with**
 <!--
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/yxshee)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9) wi*quL3fcV -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -89,6 +76,8 @@ Currently exploring domains of conscience <br>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="30"  alt="Linux" /></a> &nbsp 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a10d1c70-29f3-42ee-acff-e3aaf15007c3" width="30"  alt="Linux" /></a> &nbsp 
 
+
+<br> 
 
 <br>
 
