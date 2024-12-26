@@ -54,11 +54,67 @@ Currently exploring domains of conscience <br>
 
 
 **Some of the technologies I have worked with**
-
+<!--
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/yxshee)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9) <!-- wi*quL3fcV -->
+![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9) wi*quL3fcV -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/opensea-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/039dea77-e68a-4647-a389-c06165b29b4c" width="36"  alt="Pytorch" /></a>
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="36"  alt="Docker" /></a>
+
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="36"  alt="Linux" /></a>
+
+
+
+
+
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="36"  alt="Linux" /></a>
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="36"  alt="Linux" /></a>
+
+
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="36"  alt="Linux" /></a>
+
+
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="36"  alt="Linux" /></a>
+
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a10d1c70-29f3-42ee-acff-e3aaf15007c3" width="36"  alt="Linux" /></a>
+
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="36"  alt="Linux" /></a>
+
+
+
+
 
 <br>
 
@@ -116,7 +172,7 @@ Currently exploring domains of conscience <br>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 
   <!-- Frontend Frameworks & Libraries -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 
   <!-- Backend Technologies -->
