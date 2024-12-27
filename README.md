@@ -15,8 +15,8 @@
 
 ### **About Me**
 
-**I like football, **netflix**, and exploring **the mountains**.<br>
-Currently exploring the **domains of conscience**, blending technology with mindful innovation.**
+I like **football**, **netflix**, and exploring **the mountains**.<br>
+Currently exploring the **domains of conscience**, blending technology with mindful innovation.
 
 <br/>
 
@@ -122,7 +122,7 @@ Currently exploring the **domains of conscience**, blending technology with mind
 
 
 <br>
-
+<br>
 
 **Feel free to connect or check out my projects**
 
