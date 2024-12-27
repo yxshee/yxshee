@@ -54,7 +54,7 @@ Currently exploring domains of conscience <br>
 <br/>
 <br>
 
-
+  				     
 
 **Some of the technologies I have worked with**
 <!--
