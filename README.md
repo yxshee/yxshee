@@ -1,3 +1,4 @@
+---
 
 [![Yash Dogra ](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
 
@@ -14,8 +15,9 @@
 
 **About Me**
 
-I like  football, netflix, and mountains<br>
-Currently exploring domains of conscience <br>
+I enjoy **football**, **netflix**, and exploring **the mountains**.<br>
+Currently exploring the **domains of conscience**, blending technology with mindful innovation.
+
 
 <br/>
 
@@ -122,6 +124,8 @@ Currently exploring domains of conscience <br>
 <br>
 
 <br>
+
+---
 
 [![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)](https://www.youtube.com/watch?v=vmIUvp0e1bw)
 
