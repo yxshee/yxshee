@@ -70,13 +70,15 @@ Currently exploring domains of conscience <br>
 <a href="https://opensea.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/opensea-colored.svg" width="30"  alt="MetaMask" /></a> &nbsp 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/039dea77-e68a-4647-a389-c06165b29b4c" width="30"  alt="Pytorch" /></a> &nbsp 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="30"  alt="Docker" /></a> &nbsp 
+<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/107a82f9-8de6-46b1-a9dd-d07d38320580" width="28"  alt="Keras" /></a> &nbsp 
+<a href="https://librosa.org/doc/latest/index.html#" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/827de04a-b9a6-42cb-a10b-da04cb47edd5" width="28"  alt="Librosa" /></a> &nbsp 
+<a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1cd7a392-2275-4adc-a01c-bdc1856ca3ec" width="28"  alt="Librosa" /></a> &nbsp 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/73d9b7dd-d451-4727-8cf8-2285a7f48b90" width="28"  alt="Librosa" /></a> &nbsp 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="30"  alt="Linux" /></a> &nbsp 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="30"  alt="Linux" /></a> &nbsp 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="30"  alt="Linux" /></a> &nbsp 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="30"  alt="Linux" /></a> &nbsp 
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="30"  alt="Linux" /></a> &nbsp 
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/a10d1c70-29f3-42ee-acff-e3aaf15007c3" width="30"  alt="Linux" /></a> &nbsp 
-
 
 <br> 
 
