@@ -15,9 +15,8 @@
 
 **About Me**
 
-I like **football**, **netflix**, and exploring **the mountains**.<br>
-Currently exploring the **domains of conscience**, blending technology with mindful innovation.
-
+**I like football, **netflix**, and exploring **the mountains**.<br>
+Currently exploring the **domains of conscience**, blending technology with mindful innovation.**
 
 <br/>
 
@@ -121,7 +120,9 @@ Currently exploring the **domains of conscience**, blending technology with mind
  <a href="https://www.youtube.com/watch?v=NUnXxh5U25Y">
     <img align="center" alt="Smiley"  width="99px" src="https://media.giphy.com/media/9FhBK7b8sypyapQQRr/giphy.gif" /></a> &nbsp
 
+
 <br>
+
 
 **Feel free to connect or check out my projects**
 
