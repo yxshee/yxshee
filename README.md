@@ -82,7 +82,7 @@ Currently exploring the **domains of conscience**, blending technology with mind
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="28"  alt="Xcode" /></a> &nbsp 
-<a href="https://www.figma.com/community" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/53de942d-fb5b-4b09-8b7c-0975de9631c8" width="17"  alt="Figma" /></a> &nbsp 
+<a href="https://www.figma.com/community" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/53de942d-fb5b-4b09-8b7c-0975de9631c8" width="16"  alt="Figma" /></a> &nbsp 
 <br> 
 
 <br>
