@@ -123,6 +123,8 @@ Currently exploring the **domains of conscience**, blending technology with mind
 
 <br>
 
+**Feel free to connect or check out my projects**
+
 ---
 
 [![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)](https://www.youtube.com/watch?v=vmIUvp0e1bw)
