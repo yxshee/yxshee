@@ -24,6 +24,7 @@ Currently exploring domains of conscience <br>
 <br>&nbsp 
 
 **Languages I have used**
+
 <!--
 [![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)](https://www.reddit.com/r/Exurb1a/)
 [![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)](https://github.com/user-attachments/assets/d42d8e24-0678-44d7-8279-fed6af5c1c75)
@@ -31,16 +32,18 @@ Currently exploring domains of conscience <br>
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](https://i.pinimg.com/736x/b7/38/43/b73843e9606bcef51b3201e1da8342ff.jpg)
 [![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)](https://i.pinimg.com/736x/f4/9b/1f/f49b1fcc60468ad383ba56dd88c63b9a.jpg)
 [![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)](https://github.com/user-attachments/assets/9e1302b8-d8a0-40ae-8125-fa93de77d04f) -->
+
 <p align="center">
- <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://github.com/user-attachments/assets/6d35ceb6-514c-415e-b653-ab1ee66ce4fa" width="46"  alt="C++" /></a> &nbsp 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://github.com/user-attachments/assets/6a3e86e1-75c7-471d-968f-353f20a0c4bf" width="46" alt="Python" /></a> &nbsp 
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/dc89d6cf-ed2b-43a4-80b1-c9e68bffa42c" width="46" alt="HTML5" /></a> &nbsp 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/6a7eafde-d976-4085-ac9a-aea6a54a4971" width="46"  alt="JavaScript" /></a> &nbsp 
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://github.com/user-attachments/assets/6d35ceb6-514c-415e-b653-ab1ee66ce4fa" width="46"  alt="C++" /></a> &nbsp 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://github.com/user-attachments/assets/6a3e86e1-75c7-471d-968f-353f20a0c4bf" width="46" alt="Python" /></a> &nbsp 
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/dc89d6cf-ed2b-43a4-80b1-c9e68bffa42c" width="46" alt="HTML5" /></a> &nbsp 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/6a7eafde-d976-4085-ac9a-aea6a54a4971" width="46"  alt="JavaScript" /></a> &nbsp 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/670216dc-d0f8-4665-875f-84b7995ec886" width="46"  alt="CSS" /></a> &nbsp 
-<a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/5de1a071-1ec3-4f3e-ba3d-ddec5deba0f7" width="46"  alt="Swift" /></a> &nbsp 
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/390a3a60-569d-4879-b624-7753cf50cbfa" width="46"  alt="MYSQL" /></a> &nbsp 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/cbbdd6dc-3633-46ff-a1cf-a8c76f17a594" width="50"  alt="R" /></a> &nbsp 
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f768ec9b-bab5-490f-8dfd-16cc34ec2cdb" width="46"  alt="R" /></a> &nbsp 
+    <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/5de1a071-1ec3-4f3e-ba3d-ddec5deba0f7" width="46"  alt="Swift" /></a> &nbsp 
+    <a href="https://www.mysql.com" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/390a3a60-569d-4879-b624-7753cf50cbfa" width="46"  alt="MYSQL" /></a> &nbsp 
 </p>
+
 
 <br>
 <br>
@@ -61,9 +64,8 @@ Currently exploring domains of conscience <br>
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9) wi*quL3fcV -->
 
-
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" alt="Git" /></a>
+<p align="center">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" alt="Git" /></a>
 &nbsp 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="28" alt="React" /></a> &nbsp 
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="28" alt="MetaMask" /></a> &nbsp 
@@ -79,7 +81,6 @@ Currently exploring domains of conscience <br>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="28"  alt="Linux" /></a> &nbsp 
-
 <br> 
 
 <br>
