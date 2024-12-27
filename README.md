@@ -13,7 +13,7 @@
 <br>
 
 
-**About Me**
+### **About Me**
 
 **I like football, **netflix**, and exploring **the mountains**.<br>
 Currently exploring the **domains of conscience**, blending technology with mindful innovation.**
@@ -24,7 +24,7 @@ Currently exploring the **domains of conscience**, blending technology with mind
     <img align="center"  width="96px" src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
 <br>&nbsp 
 
-**Languages I have used**
+### **Languages I have used**
 
 <!--
 [![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)](https://www.reddit.com/r/Exurb1a/)
@@ -58,7 +58,7 @@ Currently exploring the **domains of conscience**, blending technology with mind
 
   				     
 
-**Some of the technologies I have worked with**
+### **Some of the technologies I have worked with**
 <!--
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/yxshee)
@@ -95,7 +95,7 @@ Currently exploring the **domains of conscience**, blending technology with mind
 
 <br>
 
-**Socials**
+### **Socials**
 
   <a href="https://www.linkedin.com/in/yxshee/">
     <img align="center"  width="40px" src="https://github.com/user-attachments/assets/a779affe-ef6e-4488-bed8-c7bdda8de1e7" /></a>
