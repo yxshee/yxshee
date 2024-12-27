@@ -92,7 +92,6 @@ Currently exploring domains of conscience <br>
     <img align="center"  width="99px" src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
 &nbsp 
 
-<br/>
 <br>
 
 **Socials**
