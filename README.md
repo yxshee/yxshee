@@ -113,7 +113,7 @@ Currently exploring the **domains of conscience**, blending technology with mind
 
 <br>
 
-**Feel free to connect or check out my projects**
+**Feel free to connect or check out my projects 🚀**
 
 ---
 
