@@ -36,9 +36,9 @@ Currently exploring domains of conscience <br>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://github.com/user-attachments/assets/6a3e86e1-75c7-471d-968f-353f20a0c4bf" width="36" height="36" alt="Python" /></a> &nbsp 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/dc89d6cf-ed2b-43a4-80b1-c9e68bffa42c" width="36" alt="HTML5" /></a> &nbsp 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/6a7eafde-d976-4085-ac9a-aea6a54a4971" width="36"  alt="JavaScript" /></a> &nbsp 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/670216dc-d0f8-4665-875f-84b7995ec886" width="36"  alt="HTML5" /></a> &nbsp 
-<a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/5de1a071-1ec3-4f3e-ba3d-ddec5deba0f7" width="36"  alt="HTML5" /></a> &nbsp 
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/390a3a60-569d-4879-b624-7753cf50cbfa" width="36"  alt="HTML5" /></a> &nbsp 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/670216dc-d0f8-4665-875f-84b7995ec886" width="36"  alt="CSS" /></a> &nbsp 
+<a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/5de1a071-1ec3-4f3e-ba3d-ddec5deba0f7" width="36"  alt="Swift" /></a> &nbsp 
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/390a3a60-569d-4879-b624-7753cf50cbfa" width="36"  alt="MYSQL" /></a> &nbsp 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/cbbdd6dc-3633-46ff-a1cf-a8c76f17a594" width="36"  alt="R" /></a> &nbsp 
 
 
