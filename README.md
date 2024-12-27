@@ -105,11 +105,9 @@ Currently exploring the **domains of conscience**, blending technology with mind
 <div align="center">
 
 <br>
-<br>
-
+🛸 <br>
  <a href="https://www.youtube.com/watch?v=NUnXxh5U25Y">
     <img align="center" alt="Smiley"  width="99px" src="https://media.giphy.com/media/9FhBK7b8sypyapQQRr/giphy.gif" /></a> &nbsp
-
 
 <br>
 
