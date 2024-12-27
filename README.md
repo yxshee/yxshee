@@ -15,7 +15,7 @@
 
 **About Me**
 
-I enjoy **football**, **netflix**, and exploring **the mountains**.<br>
+I like **football**, **netflix**, and exploring **the mountains**.<br>
 Currently exploring the **domains of conscience**, blending technology with mindful innovation.
 
 
