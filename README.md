@@ -31,7 +31,8 @@ Currently exploring domains of conscience <br>
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)](https://i.pinimg.com/736x/b7/38/43/b73843e9606bcef51b3201e1da8342ff.jpg)
 [![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)](https://i.pinimg.com/736x/f4/9b/1f/f49b1fcc60468ad383ba56dd88c63b9a.jpg)
 [![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)](https://github.com/user-attachments/assets/9e1302b8-d8a0-40ae-8125-fa93de77d04f) -->
-<p>
+<p align="center">
+  
  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://github.com/user-attachments/assets/6d35ceb6-514c-415e-b653-ab1ee66ce4fa" width="46"  alt="C++" /></a> &nbsp 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://github.com/user-attachments/assets/6a3e86e1-75c7-471d-968f-353f20a0c4bf" width="46" alt="Python" /></a> &nbsp 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/dc89d6cf-ed2b-43a4-80b1-c9e68bffa42c" width="46" alt="HTML5" /></a> &nbsp 
