@@ -111,6 +111,9 @@ Currently exploring the **domains of conscience**, blending technology with mind
 
 <br>
 
+Feel free to reach out if you'd like to collaborate.
+
+
 ---
 
 [![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)](https://www.youtube.com/watch?v=vmIUvp0e1bw)
