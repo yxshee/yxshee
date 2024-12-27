@@ -1,4 +1,4 @@
-
+![Cplusplus Icon](https://github.com/user-attachments/assets/6d35ceb6-514c-415e-b653-ab1ee66ce4fa)![Python Icon](https://github.com/user-attachments/assets/6a3e86e1-75c7-471d-968f-353f20a0c4bf)![HTML5 Colored Icon](https://github.com/user-attachments/assets/dc89d6cf-ed2b-43a4-80b1-c9e68bffa42c)![CSS3 Colored Icon](https://github.com/user-attachments/assets/670216dc-d0f8-4665-875f-84b7995ec886)![Swift Dark Icon](https://github.com/user-attachments/assets/5de1a071-1ec3-4f3e-ba3d-ddec5deba0f7)![MySQL Icon](https://github.com/user-attachments/assets/390a3a60-569d-4879-b624-7753cf50cbfa)
 [![Yash Dogra ](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
 
 <br>
@@ -39,6 +39,10 @@ Currently exploring domains of conscience <br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/css3-colored.svg" width="36"  alt="HTML5" /></a> &nbsp 
 <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/skills/swift-dark.svg#L1" width="36"  alt="HTML5" /></a> &nbsp 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mysql.svg" width="36"  alt="HTML5" /></a> &nbsp 
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/cbbdd6dc-3633-46ff-a1cf-a8c76f17a594" width="36"  alt="R" /></a> &nbsp 
+
+
+
 
 </p>
 
