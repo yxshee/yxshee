@@ -80,9 +80,10 @@ Currently exploring the **domains of conscience**, blending technology with mind
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="28"  alt="Linux" /></a> &nbsp 
+<a href="https://www.figma.com/community" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/641a7a58-2a15-49b2-ad77-9bc0e1b64805" width="28"  alt="Figma" /></a> &nbsp 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="28"  alt="Xcode" /></a> &nbsp 
-<a href="https://www.figma.com/community" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1c914554-d8ef-4db4-84bd-ef07eef73ff3" width="16"  alt="Figma" /></a> &nbsp 
+
   
 <br> 
 
