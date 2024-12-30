@@ -117,7 +117,6 @@ Currently exploring the **domains of conscience**, blending technology with mind
 Feel free to reach out if you'd like to collaborate.
 
 <img width="69" src="https://github.com/user-attachments/assets/d2fe670f-a151-470c-8cf0-c80dc710a18f" alt="Necessary Disorder GIF" /> 
-<img width="69" src="https://github.com/user-attachments/assets/38306bc1-449a-40f2-8814-7e7c27e03d59" alt="Space Tumblr Image" />
 <img width="69" src="https://github.com/user-attachments/assets/3ed04a7e-53f4-4edb-a0ab-a6cec656c176" alt="Space Tumblr Image (1)" />
 <img width="69" src="https://github.com/user-attachments/assets/c0ad86fc-1431-4485-a2cc-2f71fc7650c8" alt="tumblr_6f2d1f8f50ef0ea5b1e656cf2dc92c07_246de279_1280" />
 <img width="69" src="https://github.com/user-attachments/assets/ef5a1bbe-a6bb-4630-a027-a7dd03179986" alt="Space Tumblr Image (2)" />
