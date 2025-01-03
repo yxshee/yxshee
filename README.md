@@ -91,13 +91,14 @@ Currently exploring the **domains of conscience**, blending technology with mind
 <a href="mailto:yash999901@gmail.com"><img align="center"  width="45px" src="https://github.com/user-attachments/assets/4c4f7051-35c3-4d1e-a028-b6faebfb2640" /></a>
 
 <div align="center">
-
+  
+<!--
 <br>
 🛸 <br>
  <a href="https://www.youtube.com/watch?v=NUnXxh5U25Y">
     <img align="center" alt="Smiley"  width="99px" src="https://media.giphy.com/media/9FhBK7b8sypyapQQRr/giphy.gif" /></a> &nbsp
+-->
 
-<br>
 
 Feel free to reach out if you'd like to collaborate.
 
