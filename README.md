@@ -100,7 +100,7 @@ Currently exploring the **domains of conscience**, blending technology with mind
 -->
 
 
-Feel free to reach out if you'd like to collaborate.
+Feel free to reach out if you'd like to collaborate!
 
 ---
 
