@@ -19,7 +19,7 @@ Currently exploring the **domains of conscience**, blending technology with mind
 <br/>
 
 <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4">
-    <img align="center"  width="96px" src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
+    <img align="center"  width="144px" src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
 <br>&nbsp
 
 ### **Languages I have used**
@@ -39,7 +39,7 @@ Currently exploring the **domains of conscience**, blending technology with mind
 <br>
 
 <a href="https://www.youtube.com/watch?v=TnslTRrzaeQ&list=PLu0u9EZ0AYjn8K1qEmPcdu1iYEZI6pttk&index=1">
-    <img align="center"  width="85px" src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif?cid=ecf05e479ke2hzjuw15z56bf43cuwgitbdlp1nwglx9gvhil&ep=v1_gifs_search&rid=giphy.gif&ct=g" /></a>
+    <img align="center"  width="101px" src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif?cid=ecf05e479ke2hzjuw15z56bf43cuwgitbdlp1nwglx9gvhil&ep=v1_gifs_search&rid=giphy.gif&ct=g" /></a>
 
 <br/>
 <br>
