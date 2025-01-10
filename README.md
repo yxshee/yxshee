@@ -5,10 +5,9 @@
 <div align="center">
   
 <a href="https://www.youtube.com/watch?v=4YFu4dvMHHY" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdyZWFlcW04N3p1MTY2Nzk3d3ZjaGUwbnYybDV2ZDVncGN4MWthZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xT9DPpQ7337vzdMpPi/giphy.gif" width="75" alt="meemeemee">
+    <img src="https://media.giphy.com/media/mKsdBF9kIvKWBIcQJ0/giphy.gif?cid=790b7611j7yr04z3wvwflp1ewdz4vby9d1d2tx1jiqdb2e1z&ep=v1_stickers_search&rid=giphy.gif" width="95" alt="meemeemee">
 </a>&nbsp
 <br/>
-<br>
 
 ### **About Me**
 
