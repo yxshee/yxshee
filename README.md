@@ -1,4 +1,4 @@
-[![Yash Dogra ](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
+[![Yash Dogra](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
 
 <br>
 
@@ -52,11 +52,11 @@ Currently diving into the **domains of conscience**, blending technology with mi
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9) wi*quL3fcV -->
 
 <p align="center">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" alt="Git" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4c4ef491-4335-449d-9efa-b526861f2e8f" width="30" alt="Git" /></a>
 &nbsp 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="28" alt="React" /></a> &nbsp 
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="28" alt="MetaMask" /></a> &nbsp 
-<a href="https://opensea.io/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/opensea-colored.svg" width="28"  alt="MetaMask" /></a> &nbsp 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/6cbbaf68-0ddd-464b-8933-97992a744a0a" width="28" alt="React" /></a> &nbsp 
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b62b6e01-88fe-4123-a131-8fbaa068c942" width="28" alt="MetaMask" /></a> &nbsp 
+<a href="https://opensea.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/acd5ef6e-5e12-46b8-911d-c706b0996dde" width="28"  alt="MetaMask" /></a> &nbsp 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/039dea77-e68a-4647-a389-c06165b29b4c" width="28"  alt="Pytorch" /></a> &nbsp 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="28"  alt="Docker" /></a> &nbsp 
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/107a82f9-8de6-46b1-a9dd-d07d38320580" width="28"  alt="Keras" /></a> &nbsp 
