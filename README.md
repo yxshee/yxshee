@@ -60,8 +60,8 @@ Currently diving into the **domains of conscience**, blending technology with mi
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/039dea77-e68a-4647-a389-c06165b29b4c" width="28"  alt="Pytorch" /></a> &nbsp 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="28"  alt="Docker" /></a> &nbsp 
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/107a82f9-8de6-46b1-a9dd-d07d38320580" width="28"  alt="Keras" /></a> &nbsp 
-<a href="https://librosa.org/doc/latest/index.html#" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/827de04a-b9a6-42cb-a10b-da04cb47edd5" width="28"  alt="Librosa" /></a> &nbsp 
-<a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1cd7a392-2275-4adc-a01c-bdc1856ca3ec" width="28"  alt="Librosa" /></a> &nbsp 
+<a href="https://librosa.org/doc/latest/index.html#" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/827de04a-b9a6-42cb-a10b-da04cb47edd5" width="28"  alt="Librosa" /></a> &nbsp
+<a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1cd7a392-2275-4adc-a01c-bdc1856ca3ec" width="28"  alt="Librosa" /></a> &nbsp  <br>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/73d9b7dd-d451-4727-8cf8-2285a7f48b90" width="28"  alt="Librosa" /></a> &nbsp 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="28"  alt="Linux" /></a> &nbsp 
