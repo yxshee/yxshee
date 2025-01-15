@@ -17,12 +17,13 @@
 ### **About Me**
 
 Hi, I am **Yash C-137**  <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4">
-    <img align="center"  width="29px" src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
+    <img align="center"  width="29px" src="https://github.com/user-attachments/assets/b8fdb4cb-9d57-4774-ba0c-d2a073f00d55" /></a>
 <br> 
 I like **football**, **netflix**, and exploring **mountains**.<br>
 Currently diving into the **domains of conscience**,<br> blending technology with mindful innovation.
 
 <br/>
+
 
 
 <br>
