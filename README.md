@@ -79,7 +79,7 @@ Currently diving into the **domains of conscience**,<br> blending technology wit
 <a href="https://cloud.google.com/vertex-ai" ><img src="https://github.com/user-attachments/assets/366e8399-073d-4898-ab02-fffaefccba19" width="24"  alt="Xcode" /></a> &nbsp 
 
 
-
+<br>
 
 <br>
 
