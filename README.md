@@ -1,31 +1,36 @@
+
 ---
 
 [![Yash Dogra](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
 
 ---
-
 <br>
 
 <div align="center">
   
 <a href="https://www.youtube.com/watch?v=4YFu4dvMHHY" target="_blank">
-    <img src="https://media.giphy.com/media/mKsdBF9kIvKWBIcQJ0/giphy.gif?cid=790b7611j7yr04z3wvwflp1ewdz4vby9d1d2tx1jiqdb2e1z&ep=v1_stickers_search&rid=giphy.gif" width="95" alt="meemeemee">
+    <img align="left" src="https://media.giphy.com/media/mKsdBF9kIvKWBIcQJ0/giphy.gif?cid=790b7611j7yr04z3wvwflp1ewdz4vby9d1d2tx1jiqdb2e1z&ep=v1_stickers_search&rid=giphy.gif" width="300"  alt="meemeemee">
 </a>&nbsp
 <br/>
 
 ### **About Me**
 
-Hi, I am **Yash C-137**.<br>
+Hi, I am **Yash C-137**  <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4">
+    <img align="center"  width="29px" src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
+<br> 
 I like **football**, **netflix**, and exploring **mountains**.<br>
-Currently diving into the **domains of conscience**, blending technology with mindful innovation.
+Currently diving into the **domains of conscience**,<br> blending technology with mindful innovation.
 
 <br/>
 
-<a href="https://www.youtube.com/watch?v=2SUwOgmvzK4">
-    <img align="center"  width="144px" src="https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif?cid=ecf05e470byopajuxfbtzsy0cj1foqr2e1aeyb0rik2o4v08&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
-<br>&nbsp
 
-### **Languages I have used**
+<br>
+
+<br>
+
+
+### **Languages I have used** <br>
+
 
 <p align="center">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://github.com/user-attachments/assets/6d35ceb6-514c-415e-b653-ab1ee66ce4fa" width="46"  alt="C++" /></a> &nbsp 
@@ -38,14 +43,7 @@ Currently diving into the **domains of conscience**, blending technology with mi
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/390a3a60-569d-4879-b624-7753cf50cbfa" width="46"  alt="MYSQL" /></a> &nbsp 
 </p>
 
-<br>
-<br>
 
-<a href="https://www.youtube.com/watch?v=TnslTRrzaeQ&list=PLu0u9EZ0AYjn8K1qEmPcdu1iYEZI6pttk&index=1">
-    <img align="center"  width="91px" src="https://media.giphy.com/media/l378rbZpHzTwxnSmY/giphy.gif?cid=ecf05e479ke2hzjuw15z56bf43cuwgitbdlp1nwglx9gvhil&ep=v1_gifs_search&rid=giphy.gif&ct=g" /></a>
-
-<br/>
-<br>
 
 ### **Some of the technologies I have worked with**
 
@@ -65,24 +63,35 @@ Currently diving into the **domains of conscience**, blending technology with mi
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="28"  alt="Docker" /></a> &nbsp 
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/107a82f9-8de6-46b1-a9dd-d07d38320580" width="28"  alt="Keras" /></a> &nbsp 
 <a href="https://librosa.org/doc/latest/index.html#" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/827de04a-b9a6-42cb-a10b-da04cb47edd5" width="28"  alt="Librosa" /></a> &nbsp
-<a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1cd7a392-2275-4adc-a01c-bdc1856ca3ec" width="28"  alt="Librosa" /></a> &nbsp  <br>
+<a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1cd7a392-2275-4adc-a01c-bdc1856ca3ec" width="28"  alt="Librosa" /></a> &nbsp  
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/73d9b7dd-d451-4727-8cf8-2285a7f48b90" width="28"  alt="Librosa" /></a> &nbsp 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="28"  alt="Linux" /></a> &nbsp 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="28"  alt="Linux" /></a> &nbsp <br>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://www.figma.com/community" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/641a7a58-2a15-49b2-ad77-9bc0e1b64805" width="28"  alt="Figma" /></a> &nbsp 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="28"  alt="Linux" /></a> &nbsp 
-<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="28"  alt="Xcode" /></a> &nbsp
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="28"  alt="Xcode" /></a> &nbsp 
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2f82dff7-e1a7-463e-9067-7515e2795883" width="28"  alt="Xcode" /></a> &nbsp 
+<a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/744da74c-ec28-466b-aa83-a24c9335c7c5" width="28"  alt="Xcode" /></a> &nbsp 
+<a href="https://threejs.org/" ><img src="https://github.com/user-attachments/assets/f5ecdef5-5afa-4e25-ad11-d2ee13bb56f0" width="21"  alt="Xcode" /></a> &nbsp 
+<a href="https://cloud.google.com" ><img src="https://github.com/user-attachments/assets/5d4a1d06-ed5f-4591-bde5-a71147a64a9e" width="28"  alt="Xcode" /></a> &nbsp 
+<a href="https://cloud.google.com/vertex-ai" ><img src="https://github.com/user-attachments/assets/366e8399-073d-4898-ab02-fffaefccba19" width="24"  alt="Xcode" /></a> &nbsp 
+
+
+
 
 <br>
 
-<br>
 
 <br>
 
  <a href="https://www.youtube.com/watch?v=J87pJrxvJ5E">
-    <img align="center"  width="99px" src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
+    <img align="right"  width="329px" src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" /></a>
 &nbsp
+
+<br>
+
+<br>
 
 <br>
 
@@ -108,3 +117,5 @@ Feel free to reach out if you'd like to collaborate!
 ---
 
 [![Visitor Count](https://profile-counter.glitch.me/yxshee/count.svg)](https://www.youtube.com/watch?v=vmIUvp0e1bw)
+
+
