@@ -10,7 +10,7 @@
 <div align="center">
   
 <a href="https://www.youtube.com/watch?v=4YFu4dvMHHY" target="_blank">
-    <img align="left" src="https://media.giphy.com/media/mKsdBF9kIvKWBIcQJ0/giphy.gif?cid=790b7611j7yr04z3wvwflp1ewdz4vby9d1d2tx1jiqdb2e1z&ep=v1_stickers_search&rid=giphy.gif" width="300"  alt="meemeemee">
+    <img align="left" src="https://github.com/user-attachments/assets/c0031c50-0be2-486a-9a4d-0f03049b9ec0" width="300"  alt="meemeemee">
 </a>&nbsp
 <br/>
 
