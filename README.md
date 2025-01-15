@@ -49,11 +49,6 @@ Currently diving into the **domains of conscience**,<br> blending technology wit
 
 ### **Some of the technologies I have worked with**
 
-<!--
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/yxshee)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9) wi*quL3fcV -->
 
 <p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4c4ef491-4335-449d-9efa-b526861f2e8f" width="30" alt="Git" /></a>
@@ -105,14 +100,6 @@ Currently diving into the **domains of conscience**,<br> blending technology wit
 <a href="mailto:yash999901@gmail.com"><img align="center"  width="45px" src="https://github.com/user-attachments/assets/4c4f7051-35c3-4d1e-a028-b6faebfb2640" /></a>
 
 <div align="center">
-  
-<!--
-<br>
-🛸 <br>
- <a href="https://www.youtube.com/watch?v=NUnXxh5U25Y">
-    <img align="center" alt="Smiley"  width="99px" src="https://media.giphy.com/media/9FhBK7b8sypyapQQRr/giphy.gif" /></a> &nbsp
--->
-
 
 
 Feel free to reach out if you'd like to collaborate!
