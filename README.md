@@ -87,7 +87,7 @@ Currently diving into the **domains of conscience**,<br> blending technology wit
 <br>
 
  <a href="https://www.youtube.com/watch?v=J87pJrxvJ5E">
-    <img align="right"  width="319px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZ5OGd4Y2xkdmF2a3VybDhseG0wbzh1Y2FoZmE2cHFvbmI0OXkzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KCG5ISvOfp2LVxI7ra/giphy.gif" /></a>
+    <img align="right"  width="319px" src="https://github.com/user-attachments/assets/880a0ce5-5c4e-4b16-9582-f2d29bde323b" /></a>
 &nbsp
 
 <br>
@@ -111,6 +111,7 @@ Currently diving into the **domains of conscience**,<br> blending technology wit
  <a href="https://www.youtube.com/watch?v=NUnXxh5U25Y">
     <img align="center" alt="Smiley"  width="99px" src="https://media.giphy.com/media/9FhBK7b8sypyapQQRr/giphy.gif" /></a> &nbsp
 -->
+
 
 
 Feel free to reach out if you'd like to collaborate!
