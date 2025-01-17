@@ -68,11 +68,11 @@ Currently diving into the **domains of conscience**,<br> blending technology wit
 <a href="https://www.figma.com/community" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/641a7a58-2a15-49b2-ad77-9bc0e1b64805" width="28"  alt="Figma" /></a> &nbsp 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="28"  alt="Xcode" /></a> &nbsp 
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2f82dff7-e1a7-463e-9067-7515e2795883" width="28"  alt="Xcode" /></a> &nbsp 
-<a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/744da74c-ec28-466b-aa83-a24c9335c7c5" width="28"  alt="Xcode" /></a> &nbsp 
-<a href="https://threejs.org/" ><img src="https://github.com/user-attachments/assets/f5ecdef5-5afa-4e25-ad11-d2ee13bb56f0" width="21"  alt="Xcode" /></a> &nbsp 
-<a href="https://cloud.google.com" ><img src="https://github.com/user-attachments/assets/5d4a1d06-ed5f-4591-bde5-a71147a64a9e" width="28"  alt="Xcode" /></a> &nbsp 
-<a href="https://cloud.google.com/vertex-ai" ><img src="https://github.com/user-attachments/assets/366e8399-073d-4898-ab02-fffaefccba19" width="24"  alt="Xcode" /></a> &nbsp 
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2f82dff7-e1a7-463e-9067-7515e2795883" width="28"  alt="streamlit" /></a> &nbsp 
+<a href="https://gemini.google.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/744da74c-ec28-466b-aa83-a24c9335c7c5" width="28"  alt="gemini" /></a> &nbsp 
+<a href="https://threejs.org/" ><img src="https://github.com/user-attachments/assets/f5ecdef5-5afa-4e25-ad11-d2ee13bb56f0" width="21"  alt="threejs" /></a> &nbsp 
+<a href="https://cloud.google.com" ><img src="https://github.com/user-attachments/assets/5d4a1d06-ed5f-4591-bde5-a71147a64a9e" width="28"  alt="cloud" /></a> &nbsp 
+<a href="https://cloud.google.com/vertex-ai" ><img src="https://github.com/user-attachments/assets/366e8399-073d-4898-ab02-fffaefccba19" width="24"  alt="vertex" /></a> &nbsp 
 
 
 <br>
