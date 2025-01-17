@@ -83,7 +83,7 @@ Currently diving into the **domains of conscience**,<br> blending technology wit
 <br>
 
  <a href="https://www.youtube.com/watch?v=J87pJrxvJ5E">
-    <img align="right"  width="319px" src="https://github.com/user-attachments/assets/c38b3f16-3a47-4dfd-be0b-f421b74dd85a" /></a>
+    <img align="right"  width="319px" src="https://github.com/user-attachments/assets/b3201eec-3ce0-4d69-a174-121a4b187736" /></a>
 &nbsp
 
 <br>
