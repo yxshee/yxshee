@@ -16,11 +16,11 @@
 
 ### **About Me**
 
-Hi, I am **Yash C-137**  <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4">
-    <img align="center"  width="29px" src="https://github.com/user-attachments/assets/b8fdb4cb-9d57-4774-ba0c-d2a073f00d55" /></a>
-<br> 
-I like **football**, **netflix**, and exploring **mountains**.<br>
-Currently diving into the **domains of conscience**,<br> blending technology with mindful innovation.
+Hi, I am Yash C-137   <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4"><img width="29px" src="https://github.com/user-attachments/assets/b8fdb4cb-9d57-4774-ba0c-d2a073f00d55" /></a>  
+\>  I like football, Netflix, and exploring mountains.  
+\>  Currently diving into the domains of conscience.  
+\>  Blending technology with mindful innovation.
+
 
 <br/>
 
