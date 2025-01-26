@@ -68,7 +68,9 @@ Hi, I am Yash C-137   <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4"><img
 <a href="https://www.figma.com/community" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/641a7a58-2a15-49b2-ad77-9bc0e1b64805" width="28"  alt="Figma" /></a> &nbsp 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="28"  alt="Xcode" /></a> &nbsp 
-<a href="https://cloud.google.com" ><img src="https://github.com/user-attachments/assets/5d4a1d06-ed5f-4591-bde5-a71147a64a9e" width="28"  alt="cloud" /></a> &nbsp 
+<a href="https://cloud.google.com" ><img src="https://github.com/user-attachments/assets/0744cfb1-56a3-47eb-b33e-495b41d2ffbd" width="28"  alt="cloud" /></a> &nbsp 
+
+
 
 
 
