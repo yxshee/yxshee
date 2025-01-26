@@ -59,17 +59,15 @@ Hi, I am Yash C-137   <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4"><img
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/039dea77-e68a-4647-a389-c06165b29b4c" width="28"  alt="Pytorch" /></a> &nbsp 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/eca0f61e-a84b-4d73-8e55-309ad548b76e" width="28"  alt="Docker" /></a> &nbsp 
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/107a82f9-8de6-46b1-a9dd-d07d38320580" width="28"  alt="Keras" /></a> &nbsp 
-<a href="https://librosa.org/doc/latest/index.html#" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/827de04a-b9a6-42cb-a10b-da04cb47edd5" width="28"  alt="Librosa" /></a> &nbsp
+<a href="https://librosa.org/doc/latest/index.html#" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/827de04a-b9a6-42cb-a10b-da04cb47edd5" width="28"  alt="Librosa" /></a> &nbsp <br>
 <a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1cd7a392-2275-4adc-a01c-bdc1856ca3ec" width="28"  alt="Librosa" /></a> &nbsp  
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/73d9b7dd-d451-4727-8cf8-2285a7f48b90" width="28"  alt="Librosa" /></a> &nbsp <br>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/73d9b7dd-d451-4727-8cf8-2285a7f48b90" width="28"  alt="Librosa" /></a> &nbsp 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b8167687-9192-43c3-b35d-f00ae9e26562" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/e4896d84-87de-4048-955f-38cde34aa899" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/8e5da02d-4849-4a6b-ad93-ab7e13ebc9d2" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://www.figma.com/community" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/641a7a58-2a15-49b2-ad77-9bc0e1b64805" width="28"  alt="Figma" /></a> &nbsp 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d146eb3b-1408-493f-89ca-301a50b1c103" width="28"  alt="Linux" /></a> &nbsp 
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/04708255-e7c3-4849-9832-94ee4ca5137c" width="28"  alt="Xcode" /></a> &nbsp 
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/2f82dff7-e1a7-463e-9067-7515e2795883" width="28"  alt="streamlit" /></a> &nbsp 
-<a href="https://threejs.org/" ><img src="https://github.com/user-attachments/assets/f5ecdef5-5afa-4e25-ad11-d2ee13bb56f0" width="21"  alt="threejs" /></a> &nbsp 
 <a href="https://cloud.google.com" ><img src="https://github.com/user-attachments/assets/5d4a1d06-ed5f-4591-bde5-a71147a64a9e" width="28"  alt="cloud" /></a> &nbsp 
 
 
