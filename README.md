@@ -1,4 +1,4 @@
-
+<div align ="center">
 ---
 
 [![Yash Dogra](https://github.com/user-attachments/assets/d65f9414-9251-4b4b-89ad-5955cb6a30d4)](https://www.youtube.com/watch?v=e3U1TKgwoxE)
@@ -7,7 +7,8 @@
 
 <br>
 
-
+<p align="center">
+    
 ### **About Me**
 
 Hi, I am Yash C-137   <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4"><img width="29px" src="https://github.com/user-attachments/assets/b8fdb4cb-9d57-4774-ba0c-d2a073f00d55" /></a>  
@@ -106,4 +107,4 @@ Feel free to reach out if you'd like to collaborate!
 
 
 
-
+</div>
