@@ -21,9 +21,6 @@ Hi, I am Yash C-137   <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4"><img
 <br/>
 
 
-
-<br>
-
 <br>
 
 
@@ -75,12 +72,9 @@ Hi, I am Yash C-137   <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4"><img
 <br>
 
 
-<br>
-
-
 
  <a href="https://www.youtube.com/watch?v=J87pJrxvJ5E">
-    <img align="center"  width="39px" src="https://github.com/user-attachments/assets/b3201eec-3ce0-4d69-a174-121a4b187736" /></a>
+    <img align="center"  width="79px" src="https://github.com/user-attachments/assets/b3201eec-3ce0-4d69-a174-121a4b187736" /></a>
 &nbsp
 
 
