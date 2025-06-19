@@ -5,7 +5,7 @@
     </td>
     <td valign="top" style="padding-left: 16px;">
 
-## Hi, I am **Yash C-137**<br>
+## Hi, I am **Yash C137**<br>
 I like **football**, **netflix**, and exploring **mountains**.<br>
 Currently diving into the **domains of conscience**,<br>
 blending technology with mindful innovation.
