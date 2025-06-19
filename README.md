@@ -8,7 +8,7 @@
 ## Hi, I am **Yash C137**<br>
 I like **football**, **netflix**, and exploring **mountains**.<br>
 Currently diving into the **domains of conscience**,<br>
-blending technology with mindful innovation.
+blending technology with **mindful innovation**.
 
 
 <p align="center">
