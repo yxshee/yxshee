@@ -10,6 +10,8 @@ I like **football**, **netflix**, and exploring **mountains**.<br>
 Currently diving into the **domains of conscience**,<br>
 blending technology with mindful innovation.
 
+## 
+
 <p align="center">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://github.com/user-attachments/assets/6d35ceb6-514c-415e-b653-ab1ee66ce4fa" width="36"  alt="C++" /></a> &nbsp 
     <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img src="https://github.com/user-attachments/assets/6a3e86e1-75c7-471d-968f-353f20a0c4bf" width="36" alt="Python" /></a> &nbsp 
@@ -19,6 +21,8 @@ blending technology with mindful innovation.
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/f768ec9b-bab5-490f-8dfd-16cc34ec2cdb" width="46"  alt="R" /></a> &nbsp 
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer" style="margin-right: 50px;"><img src="https://github.com/user-attachments/assets/390a3a60-569d-4879-b624-7753cf50cbfa" width="36"  alt="MYSQL" /></a> &nbsp 
 </p>
+
+
 
 </td>
   </tr>
