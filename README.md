@@ -1,8 +1,9 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" width="150"><a href-"https://www.youtube.com/watch?v=4YFu4dvMHHY">
-      <img src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Logo" width="200" />
-    </a>  </td>
+    <td valign="top" width="150">
+      <a href="https://www.youtube.com/watch?v=4YFu4dvMHHY">
+      <img src="https://media.giphy.com/media/KCG5ISvOfp2LVxI7ra/giphy.gif?cid=790b7611bydw476fjyczmte4ofuqve7truxt8i6vhfgauvwy&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Logo" width="200" /> </a> 
+    </td>
     <td valign="top" style="padding-left: 16px;">
 
   ## Hi, I am **Yash C137**<br>
