@@ -1,4 +1,4 @@
-<table border="0" cellspacing="0" cellpadding="0">
+<!-- <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" width="150">
       <a href="https://www.youtube.com/watch?v=4YFu4dvMHHY">
@@ -45,6 +45,10 @@ If I could act on my revenge, no, would I?
 
 
 
+ ## hi, i am yash 
+ 
 
 
+I like football, netflix, and exploring mountains. Currently diving into the domains of conscience, blending technology with mindful innovation.<br>
+<a href="">website</a> <a href="">contact</a>
 
