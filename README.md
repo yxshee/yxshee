@@ -49,7 +49,8 @@ If I could act on my revenge, no, would I?
  
 
 
-i like football, netflix, and exploring mountains. Currently diving into the domains of conscience, blending technology with mindful innovation.<br>
+i like football, netflix, and exploring mountains. <br>
+currently diving into the domains of conscience, blending technology with mindful innovation.<br>
 doing mostly random stuff whatever i  feel like <br>
 <a href="">website</a> <a href="">contact</a>
 
