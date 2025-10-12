@@ -49,8 +49,17 @@ If I could act on my revenge, no, would I?
  
 
 
+
 i like football, netflix, and exploring mountains. <br>
-currently diving into the domains of conscience, blending technology with mindful innovation.<br>
-i do random stuff mostly. <br>
-<a href="">website</a> <a href="">contact</a>
+
+
+i'm a cs student and ai enthusiast from himachal, building ml models and full-stack apps that blend creativity with code. <br>
+
+
+
+doing random stuff mostly. you might find me exploring new frontiers in ai or crafting something unexpected. <br>
+
+
+
+[website](https://yxshee.vercel.app) [contact](mailto:yxshdogra@gmail.com)
 
