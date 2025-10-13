@@ -57,7 +57,7 @@ i'm a cs student and ai enthusiast from himachal, building ml models and full-st
 
 
 
-doing random stuff mostly. you might find me exploring new frontiers in ai or crafting something unexpected. <br>
+doing random stuff mostly, you might find me exploring new frontiers in ai or crafting something unexpected. <br>
 
 
 
