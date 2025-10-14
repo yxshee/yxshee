@@ -61,5 +61,5 @@ doing random stuff mostly, you might find me exploring new frontiers in ai or cr
 
 
 
-[website](https://yxshee.github.io/) [contact](mailto:yxshdogra@gmail.com)
+[website](https://yxshee.vercel.app) [contact](mailto:yxshdogra@gmail.com)
 
