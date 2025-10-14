@@ -53,7 +53,7 @@ If I could act on my revenge, no, would I?
 i like football, netflix, and exploring mountains. <br>
 
 
-i'm a cs student and ai enthusiast from himachal, building ml models and full-stack apps that blend creativity with code. <br>
+i'm a cs student and ai enthusiast from himachal, building ml models and full stack apps that blend creativity with code. <br>
 
 
 
