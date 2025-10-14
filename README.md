@@ -50,12 +50,10 @@ If I could act on my revenge, no, would I?
 
 
 
-i like football, netflix, and exploring mountains. <br>
-
 
 i'm a cs dev and ai enthusiast from himachal, building ml models and full stack apps that blend creativity with code. <br>
 
-
+i like football, netflix, and exploring mountains. <br>
 
 doing random stuff mostly, you might find me exploring new frontiers in ai or crafting something unexpected. <br>
 
