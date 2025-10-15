@@ -61,3 +61,17 @@ doing random stuff mostly, you might find me exploring new frontiers in ai or cr
 
 [website](https://yxshee.vercel.app) [contact](mailto:yxshdogra@gmail.com)
 
+
+<table>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" /></td>
+    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" /></td>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" /></td>
+    <td><img src="https://techstack-generator.vercel.app/swift-icon.svg" width="60" /></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" /></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" /></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" /></td>
+    <td><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" /></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" /></td>
+  </tr>
+</table>
