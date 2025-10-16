@@ -70,6 +70,6 @@ doing random stuff mostly, you might find me exploring new frontiers in ai or cr
     <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" /></td>
     <td><img src="https://techstack-generator.vercel.app/swift-icon.svg" width="60" /></td>
     <td><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="60" /></td>
-    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" /></td>    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" /></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" /></td>   
   </tr>
 </table>
