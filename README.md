@@ -59,7 +59,7 @@ doing random stuff mostly, you might find me exploring new frontiers in ai or cr
 
 
 
-[website](https://yxshee.github.io/gallery.html)  [works](https://yxsheeworks.vercel.app)  [contact](mailto:yxshdogra@gmail.com)
+[website](https://yxshee.vercel.app)  [works](https://yxsheeworks.vercel.app)  [contact](mailto:yxshdogra@gmail.com)
 
 
 <table>
