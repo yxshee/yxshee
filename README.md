@@ -66,9 +66,9 @@ doing random stuff mostly, you might find me exploring new frontiers in ai or cr
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/python-icon.svg" width="60" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/cpp-icon.svg" width="60" /></td>    
-    <td><img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/ts-icon.svg" width="60" /></td>
+    <!-- <td><img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/ts-icon.svg" width="60" /></td> -->
     <td><img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/react-icon.svg" width="60" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/mysql-icon.svg" width="60" /></td>
+    <!-- <td><img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/mysql-icon.svg" width="60" /></td> -->
     <td><img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/swift-icon.svg" width="60" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/docker-icon.svg" width="60" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@master/static/graphql-icon.svg" width="60" /></td>
