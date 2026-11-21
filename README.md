@@ -45,10 +45,6 @@ If I could act on my revenge, no, would I?
 
 
 
-<p align="center">
-  <img src="./data/yash-card.gif" alt="yash · i train models and draw pixels" width="100%">
-</p>
-
  ## hi, im yash 
  
 
