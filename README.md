@@ -53,7 +53,7 @@ If I could act on my revenge, no, would I?
 
 i'm a cs dev and ai enthusiast from himachal, building ml models and full stack apps that blend creativity with code. <br>
 
-doing random stuff mostly, you might find me exploring new frontiers in ai or crafting something unexpected. <br>
+doing dev stuff mostly, you might find me exploring new frontiers in ai or crafting something unexpected. <br>
 
 
 
